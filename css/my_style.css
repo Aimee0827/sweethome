@@ -1,0 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poor+Story&display=swap');
+
+#about .row {
+    font-family: 'Poor Story', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFD700;
+}
